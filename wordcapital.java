@@ -1,4 +1,4 @@
-package codeforce;
+
 import java.util.Scanner;
 public class wordcapital {
     public static void main(String[] args) {

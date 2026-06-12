@@ -1,4 +1,4 @@
-package codeforce;
+
 
 import java.util.*;
 public class Quality_Quantity{
